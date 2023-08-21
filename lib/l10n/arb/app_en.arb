@@ -1,0 +1,19 @@
+{
+    "@@locale": "en",
+    "counterAppBarTitle": "Counter",
+    "@counterAppBarTitle": {
+        "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "scanQRCode": "Scan QR code",
+    "scanWalletConnectQRCode": "Scan WalletConnect QR code",
+    "walletConnectDemo": "Wallet Connect Demo",
+    "back": "Back",
+    "cameraAccessDenied": "Camera access denied",
+    "cantScanQRCodeWithoutCameraAccess": "We can't scan the QR code without camera access.",
+    "cameraAccessDeniedDescAndAction": "You can recover camera access through your device settings.\n\nGo to app settings and enable camera access for this app.",
+    "enableCameraAccess": "Enable Camera Access",
+    "clickEnableCameraAccessButton": "1. Click on Enable Camera Access Button to Open Settings",
+    "clickOnPermissions": "2. Click on Permissions",
+    "tapOnCameraPermissionInNotAllowedSection": "3. Tap on Camera Permission in Not Allowed section",
+    "selectPermissionTypeAccordingly": "4.Select the permission type according to your choice"
+}
