@@ -18,7 +18,7 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   intl: ^0.18.0
-  permission_handler: ^10.4.3
+  permission_handler: ^11.0.1
   scan: ^1.6.0
   wallet_connect_repository:
     path: ./packages/wallet_connect_repository
